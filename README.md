@@ -1,22 +1,26 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.svg" alt="Anshika Moudgil — AI/ML, Backend and Full Stack Engineering" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Anshika Moudgil — AI/ML and Backend Engineering" />
 
 <br />
 
-[**GITHUB PROFILE ↗**](https://github.com/AnshikaMoudgil) &nbsp; · &nbsp; [**EXPLORE PROJECTS ↗**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp; · &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/anshikamoudgil) &nbsp; · &nbsp; [**LEETCODE ↗**](https://leetcode.com/u/anshikamoudgil/)
+<a href="https://github.com/AnshikaMoudgil"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/AnshikaMoudgil?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/anshikamoudgil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://leetcode.com/u/anshikamoudgil/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
+<img src="https://komarev.com/ghpvc/?username=AnshikaMoudgil&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED" alt="Profile visits" />
 
-<br />
+<br /><br />
 
-**Backend Engineering • AI/ML • Distributed Systems • Full Stack Development**
+**AI/ML • Backend engineering • Distributed systems • Full-stack development**
 
-<sub>B.E. Computer Science Engineering (AI & ML) · Chitkara University · 2024–2028</sub>
+<sub>B.E. Computer Science (AI & ML) · Chitkara University · 2024–2028</sub>
 
 </div>
 
 ---
 
-### 01 · ABOUT
+### <img src="https://img.shields.io/badge/01-ABOUT-7C3AED?style=flat-square" alt="01 ABOUT" />
 
 I'm **Anshika Moudgil**, a Computer Science Engineering student specializing in **AI & ML** with a strong interest in **dependable backend services, payments infrastructure, and fault-tolerant distributed systems**.
 
@@ -30,47 +34,29 @@ const focus = {
 };
 ```
 
-### 02 · TECH STACK
+### <img src="https://img.shields.io/badge/02-TECH%20STACK-7C3AED?style=flat-square" alt="02 TECH STACK" />
 
 <div align="center">
 
 **LANGUAGES**
 
-`Python` &nbsp; `Java` &nbsp; `JavaScript` &nbsp; `C` &nbsp; `C++`
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c&theme=dark" alt="Python Java JavaScript C++ C" />
 
-<br />
+**BACKEND & FRAMEWORKS**
 
-**BACKEND & APIs**
-
-`Node.js` &nbsp; `NestJS` &nbsp; `Express.js` &nbsp; `FastAPI` &nbsp; `REST APIs`
-
-<br />
-
-**WEB & MOBILE**
-
-`React.js` &nbsp; `Flutter` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `Tailwind CSS`
-
-<br />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,react,flutter,tailwind&theme=dark" alt="Node.js NestJS Express FastAPI React Flutter Tailwind" />
 
 **DATABASES & TOOLS**
 
-`MongoDB` &nbsp; `MySQL` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `Supabase` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Linux` &nbsp; `Postman`
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,git,github,linux,postman&theme=dark" alt="MongoDB MySQL PostgreSQL Redis Supabase Git GitHub Linux Postman" />
 
-<br />
-
-**SYSTEMS, PAYMENTS & AI**
-
-`Distributed Systems` &nbsp; `Concurrency` &nbsp; `Fault Tolerance` &nbsp; `Razorpay` &nbsp; `OAuth`
-
-`Generative AI` &nbsp; `LLMs` &nbsp; `RAG` &nbsp; `NLP` &nbsp; `Embeddings` &nbsp; `Semantic Search` &nbsp; `scikit-learn` &nbsp; `Gemini API` &nbsp; `Foundry IQ`
+<sub>Also working with Razorpay, REST APIs, Generative AI, LLMs, RAG, embeddings, Gemini API, Azure AI and system design.</sub>
 
 </div>
 
 ---
 
-### 03 · FEATURED WORK
-
-<sub>Public repositories, ordered newest first by repository creation. The profile repository is excluded.</sub>
+### <img src="https://img.shields.io/badge/03-FEATURED%20WORK-7C3AED?style=flat-square" alt="03 FEATURED WORK" />
 
 <table>
 <tr>
@@ -84,7 +70,7 @@ A payment orchestration project exploring dynamic routing, circuit breakers, dis
 
 `Java` `Spring Boot` `PostgreSQL` `Redis` `Kafka`
 
-[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine)
+<a href="https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1f2937?style=flat-square&logo=github&logoColor=white" alt="View source"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +83,7 @@ An ML application predicting academic achievement and identifying students at ri
 
 `Python` `TensorFlow` `scikit-learn` `Streamlit`
 
-[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/student-performance-prediction)
+<a href="https://github.com/AnshikaMoudgil/student-performance-prediction"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1f2937?style=flat-square&logo=github&logoColor=white" alt="View source"/></a>
 
 </td>
 </tr>
@@ -112,7 +98,7 @@ A systems-oriented group chat project focused on communication between processes
 
 `Systems` `IPC`
 
-[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/ipc-groupchat)
+<a href="https://github.com/AnshikaMoudgil/ipc-groupchat"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1f2937?style=flat-square&logo=github&logoColor=white" alt="View source"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +111,7 @@ An application repository exploring learning management and education technology
 
 `Education` `App Development`
 
-[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/Learning-Management-App)
+<a href="https://github.com/AnshikaMoudgil/Learning-Management-App"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1f2937?style=flat-square&logo=github&logoColor=white" alt="View source"/></a>
 
 </td>
 </tr>
@@ -140,7 +126,7 @@ An e-commerce platform spanning a Flutter storefront, Dart/Shelf backend, and Ne
 
 `Flutter` `Dart` `Next.js` `Supabase`
 
-[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/gadget-world)
+<a href="https://github.com/AnshikaMoudgil/gadget-world"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1f2937?style=flat-square&logo=github&logoColor=white" alt="View source"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +139,7 @@ An AI-powered interview practice platform with technical and HR preparation, cod
 
 `React` `FastAPI` `Supabase` `Azure AI`
 
-[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/SkillCraft-AI)
+<a href="https://github.com/AnshikaMoudgil/SkillCraft-AI"><img src="https://img.shields.io/badge/VIEW%20SOURCE-1f2937?style=flat-square&logo=github&logoColor=white" alt="View source"/></a>
 
 </td>
 </tr>
@@ -176,7 +162,7 @@ An AI-powered interview practice platform with technical and HR preparation, cod
 
 ---
 
-### 04 · EXPERIENCE & ACHIEVEMENTS
+### <img src="https://img.shields.io/badge/04-EXPERIENCE%20%26%20ACHIEVEMENTS-7C3AED?style=flat-square" alt="04 EXPERIENCE %26 ACHIEVEMENTS" />
 
 **App Development Intern · Tensorik Technologies** <sub>June–August 2025</sub>
 
@@ -190,29 +176,34 @@ Served as **Team Lead** while shipping working AI and blockchain prototypes unde
 
 B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10** *(as provided in résumé)*
 
-### 05 · CERTIFICATIONS
+### <img src="https://img.shields.io/badge/05-CERTIFICATIONS-7C3AED?style=flat-square" alt="05 CERTIFICATIONS" />
 
 - **Microsoft Azure AI Fundamentals**
 - **Microsoft Azure Fundamentals**
 - **Microsoft Azure Data Fundamentals**
 
-### 06 · OPEN SOURCE & ACTIVITY
+---
+
+### <img src="https://img.shields.io/badge/06-OPEN%20SOURCE%20%26%20ACTIVITY-7C3AED?style=flat-square" alt="04 Open source activity" />
 
 <div align="center">
 
 **Explore the work, not just the numbers.**
 
-[**CONTRIBUTION HISTORY ↗**](https://github.com/AnshikaMoudgil?tab=overview) &nbsp; · &nbsp; [**PUBLIC REPOSITORIES ↗**](https://github.com/AnshikaMoudgil?tab=repositories)
+<a href="https://github.com/AnshikaMoudgil?tab=overview"><img src="https://img.shields.io/badge/Contribution%20history-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Contribution history"/></a>
+<a href="https://github.com/AnshikaMoudgil?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="Public repositories"/></a>
 
-<sub>Browse GitHub for live code and contribution history.</sub>
+<sub>My actual contribution calendar and public code are available on GitHub. No third-party generated stats screenshots or trophy services.</sub>
 
 </div>
 
-### 07 · CODING PRACTICE
+### <img src="https://img.shields.io/badge/07-CODING%20PRACTICE-7C3AED?style=flat-square" alt="05 Coding practice" />
 
-**DSA & problem solving** · **250+ LeetCode problems completed** *(résumé-reported figure)*
+**DSA & problem solving** · **250+ LeetCode problems completed** (resume-reported).
 
-[**LEETCODE PROFILE ↗**](https://leetcode.com/u/anshikamoudgil/)
+<a href="https://leetcode.com/u/anshikamoudgil/"><img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Anshika LeetCode profile"/></a>
+
+<sub>Problem count is from the provided resume, not a live verified LeetCode total.</sub>
 
 ---
 
@@ -222,7 +213,7 @@ B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10** *(as provided in r�
 
 *Reliable infrastructure. Thoughtful engineering. Intelligent experiences.*
 
-[**EXPLORE MY WORK ↗**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp; · &nbsp; [**CONNECT ON LINKEDIN ↗**](https://www.linkedin.com/in/anshikamoudgil)
+<a href="https://github.com/AnshikaMoudgil?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/></a>
 
 <sub>Made with curiosity, code, and a drive to keep improving.</sub>
 
