@@ -174,13 +174,13 @@ Served as **Team Lead** while shipping working AI and blockchain prototypes unde
 
 **Academic performance**
 
-B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10** *(as provided in résumé)*
+B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10**
 
 ### <img src="./assets/certifications-badge.svg" alt="05 CERTIFICATIONS" />
 
-- **Microsoft Azure AI Fundamentals**
-- **Microsoft Azure Fundamentals**
-- **Microsoft Azure Data Fundamentals**
+- **Microsoft Azure AI Fundamentals  NOV 2024**
+- **Microsoft Azure Fundamentals  JUN 2025**
+- **Microsoft Azure Data Fundamentals  AUG 2025**
 
 ---
 
@@ -199,11 +199,10 @@ B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10** *(as provided in r�
 
 ### <img src="https://img.shields.io/badge/07-CODING%20PRACTICE-7C3AED?style=flat-square" alt="05 Coding practice" />
 
-**DSA & problem solving** · **250+ LeetCode problems completed** (resume-reported).
+**DSA & problem solving** · **250+ LeetCode problems completed**.
 
 <a href="https://leetcode.com/u/anshikamoudgil/"><img src="https://img.shields.io/badge/LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Anshika LeetCode profile"/></a>
 
-<sub>Problem count is from the provided resume, not a live verified LeetCode total.</sub>
 
 ---
 
