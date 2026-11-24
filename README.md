@@ -56,7 +56,7 @@ const focus = {
 
 ---
 
-### <img src="https://img.shields.io/badge/03-FEATURED%20WORK-7C3AED?style=flat-square" alt="03 FEATURED WORK" />
+### <img src="./assets/featured-work-badge.svg" alt="03 FEATURED WORK" />
 
 <table>
 <tr>
@@ -176,7 +176,7 @@ Served as **Team Lead** while shipping working AI and blockchain prototypes unde
 
 B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10** *(as provided in résumé)*
 
-### <img src="https://img.shields.io/badge/05-CERTIFICATIONS-7C3AED?style=flat-square" alt="05 CERTIFICATIONS" />
+### <img src="./assets/certifications-badge.svg" alt="05 CERTIFICATIONS" />
 
 - **Microsoft Azure AI Fundamentals**
 - **Microsoft Azure Fundamentals**
