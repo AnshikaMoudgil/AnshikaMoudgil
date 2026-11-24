@@ -1,218 +1,229 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.svg" alt="Anshika Moudgil — Full Stack, AI and Mobile" />
+<img width="100%" src="./assets/profile-banner.svg" alt="Anshika Moudgil — AI/ML, Backend and Full Stack Engineering" />
 
 <br />
 
-### Building ambitious ideas into real software.
+[**GITHUB PROFILE ↗**](https://github.com/AnshikaMoudgil) &nbsp; · &nbsp; [**EXPLORE PROJECTS ↗**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp; · &nbsp; [**LINKEDIN ↗**](https://www.linkedin.com/in/anshikamoudgil) &nbsp; · &nbsp; [**LEETCODE ↗**](https://leetcode.com/u/anshikamoudgil/)
 
-**Full-stack engineering** &nbsp;✦&nbsp; **Applied AI** &nbsp;✦&nbsp; **Mobile experiences**
+<br />
 
-From intelligent applications to fintech infrastructure, I enjoy making products that solve interesting problems — and learning something new with every build.
+**Backend Engineering • AI/ML • Distributed Systems • Full Stack Development**
 
-[**Explore the work ↗**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp; · &nbsp; [**See contributions ↗**](https://github.com/AnshikaMoudgil?tab=overview)
+<sub>B.E. Computer Science Engineering (AI & ML) · Chitkara University · 2024–2028</sub>
 
 </div>
 
 ---
 
-### 01 / THE PERSON BEHIND THE CODE
+### 01 · ABOUT
 
-<table>
-<tr>
-<td width="61%" valign="top">
+I'm **Anshika Moudgil**, a Computer Science Engineering student specializing in **AI & ML** with a strong interest in **dependable backend services, payments infrastructure, and fault-tolerant distributed systems**.
 
-Hey, I'm **Anshika Moudgil**. 👋
+I enjoy designing **intelligent, end-to-end applications**, with a particular focus on reliable payment flows, API performance, and AI applications built around **LLMs, RAG and semantic search**.
 
-I work across **AI, web, backend and mobile engineering** — designing useful experiences on the surface and exploring the architecture that powers them underneath.
-
-I gravitate toward ideas where good engineering meets meaningful outcomes: **payments that recover gracefully, learning tools that adapt, and apps that feel effortless.**
-
-**Currently exploring:** scalable systems, practical machine learning and polished full-stack applications.
-
-</td>
-<td width="39%" valign="top">
-
-```yaml
-developer: Anshika Moudgil
-interests:
-  - Product engineering
-  - Applied AI
-  - Mobile & web
-principle: Build • Learn • Refine
+```text
+const focus = {
+  build:   "Dependable products and payment workflows",
+  explore: "Generative AI, RAG, and applied machine learning",
+  improve: "System design, concurrency, backend performance and DSA"
+};
 ```
 
-</td>
-</tr>
-</table>
-
-### 02 / THE TOOLKIT
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**⌘  LANGUAGES**
-
-`Python` · `Java`
-
-`TypeScript` · `JavaScript`
-
-`Dart`
-
-</td>
-<td width="33%" valign="top">
-
-**◈  FRAMEWORKS**
-
-`React` · `Next.js`
-
-`Spring Boot` · `FastAPI`
-
-`Flutter` · `Flask`
-
-</td>
-<td width="34%" valign="top">
-
-**◇  INFRA & DATA**
-
-`PostgreSQL` · `Redis`
-
-`Firebase` · `Supabase`
-
-`Kafka` · `Docker`
-
-</td>
-</tr>
-</table>
-
-<sub>Technologies represented across public projects, rather than a claim of expert-level proficiency in each.</sub>
-
----
-
-### 03 / SELECTED WORK
+### 02 · TECH STACK
 
 <div align="center">
 
-**A collection of things I've been building.**
+**LANGUAGES**
 
-<sub>Newest repositories first, based on creation order. Each project has its own custom-designed cover.</sub>
-
-</div>
+`Python` &nbsp; `Java` &nbsp; `JavaScript` &nbsp; `C` &nbsp; `C++`
 
 <br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine"><img width="100%" src="./assets/payroute.svg" alt="PayRoute project cover" /></a>
+**BACKEND & APIs**
 
-**[PayRoute](https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine)**
+`Node.js` &nbsp; `NestJS` &nbsp; `Express.js` &nbsp; `FastAPI` &nbsp; `REST APIs`
 
-A resilient payment-orchestration system exploring intelligent routing, circuit breakers, idempotency and event-driven workflows.
+<br />
 
-<sub><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code></sub>
+**WEB & MOBILE**
 
-[Explore project ↗](https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/AnshikaMoudgil/student-performance-prediction"><img width="100%" src="./assets/student-ai.svg" alt="Student Performance Prediction project cover" /></a>
+`React.js` &nbsp; `Flutter` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `Tailwind CSS`
 
-**[Student Performance Prediction](https://github.com/AnshikaMoudgil/student-performance-prediction)**
+<br />
 
-Deep-learning driven academic performance classification, risk identification and interactive prediction workflows.
+**DATABASES & TOOLS**
 
-<sub><code>Python</code> <code>TensorFlow</code> <code>scikit-learn</code> <code>Streamlit</code></sub>
+`MongoDB` &nbsp; `MySQL` &nbsp; `PostgreSQL` &nbsp; `Redis` &nbsp; `Supabase` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Linux` &nbsp; `Postman`
 
-[Explore project ↗](https://github.com/AnshikaMoudgil/student-performance-prediction)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AnshikaMoudgil/ipc-groupchat"><img width="100%" src="./assets/ipc-chat.svg" alt="IPC Group Chat project cover" /></a>
+<br />
 
-**[IPC Group Chat](https://github.com/AnshikaMoudgil/ipc-groupchat)**
+**SYSTEMS, PAYMENTS & AI**
 
-A systems-oriented group-chat project exploring inter-process communication.
+`Distributed Systems` &nbsp; `Concurrency` &nbsp; `Fault Tolerance` &nbsp; `Razorpay` &nbsp; `OAuth`
 
-<sub><code>IPC</code> <code>Systems programming</code></sub>
-
-[Explore project ↗](https://github.com/AnshikaMoudgil/ipc-groupchat)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/AnshikaMoudgil/Learning-Management-App"><img width="100%" src="./assets/learning-app.svg" alt="Learning Management App project cover" /></a>
-
-**[Learning Management App](https://github.com/AnshikaMoudgil/Learning-Management-App)**
-
-An application project centred on digital learning and educational experiences.
-
-<sub><code>Education</code> <code>Application development</code></sub>
-
-[Explore project ↗](https://github.com/AnshikaMoudgil/Learning-Management-App)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/AnshikaMoudgil/gadget-world"><img width="100%" src="./assets/gadget-world.svg" alt="Gadget World project cover" /></a>
-
-**[Gadget World](https://github.com/AnshikaMoudgil/gadget-world)**
-
-A multi-application gadget marketplace with a Flutter storefront, Dart API and Next.js admin dashboard.
-
-<sub><code>Flutter</code> <code>Dart</code> <code>Next.js</code> <code>Supabase</code></sub>
-
-[Explore project ↗](https://github.com/AnshikaMoudgil/gadget-world)
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/AnshikaMoudgil/SkillCraft-AI"><img width="100%" src="./assets/skillcraft.svg" alt="SkillCraft AI project cover" /></a>
-
-**[SkillCraft AI](https://github.com/AnshikaMoudgil/SkillCraft-AI)**
-
-AI-powered career preparation with mock interviews, coding practice, resume workflows and voice features.
-
-<sub><code>React</code> <code>FastAPI</code> <code>Supabase</code> <code>Azure AI</code></sub>
-
-[Explore project ↗](https://github.com/AnshikaMoudgil/SkillCraft-AI)
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[Browse the entire collection ↗](https://github.com/AnshikaMoudgil?tab=repositories)**
+`Generative AI` &nbsp; `LLMs` &nbsp; `RAG` &nbsp; `NLP` &nbsp; `Embeddings` &nbsp; `Semantic Search` &nbsp; `scikit-learn` &nbsp; `Gemini API` &nbsp; `Foundry IQ`
 
 </div>
 
 ---
 
-### 04 / MORE FROM THE WORKBENCH
+### 03 · FEATURED WORK
 
-| Project | What it's about |
-| :-- | :-- |
-| [**LMS Assessment ↗**](https://github.com/AnshikaMoudgil/lms_Assessment) | Learning assessments |
-| [**LMS Flutter Tensorik ↗**](https://github.com/AnshikaMoudgil/lms-flutter-tensorik) | Flutter & Firebase education experience |
-| [**LMS Tensorik ↗**](https://github.com/AnshikaMoudgil/lms-tensorik) | Learning-management project |
-| [**Humanitarian Risk Intelligence ↗**](https://github.com/AnshikaMoudgil/HumantarianRiskIntelligence) | Risk-intelligence exploration |
-| [**SafeHarbor Fintech ↗**](https://github.com/AnshikaMoudgil/SafeHarbor-Fintech) | Financial technology |
-| [**Smart File Converter ↗**](https://github.com/AnshikaMoudgil/Smart-file-converter-) | File conversion |
-| [**AirWriting ↗**](https://github.com/AnshikaMoudgil/AirWriting) | Air-writing experiment |
-| [**Data Analytics ↗**](https://github.com/AnshikaMoudgil/DataAnalytics) | Data analytics |
-| [**Credilink ↗**](https://github.com/AnshikaMoudgil/Credilink) | Learning & credentials |
+<sub>Public repositories, ordered newest first by repository creation. The profile repository is excluded.</sub>
 
-<sub>Additional older projects live on the [Repositories tab](https://github.com/AnshikaMoudgil?tab=repositories). Private repositories aren't disclosed.</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 · [PayRoute](https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine)
+
+**Intelligent payment routing & failover**
+
+A payment orchestration project exploring dynamic routing, circuit breakers, distributed idempotency, Kafka streaming, and real-time operational dashboards.
+
+`Java` `Spring Boot` `PostgreSQL` `Redis` `Kafka`
+
+[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine)
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 · [Student Performance Prediction](https://github.com/AnshikaMoudgil/student-performance-prediction)
+
+**Deep learning for academic insights**
+
+An ML application predicting academic achievement and identifying students at risk with neural networks and an interactive Streamlit experience.
+
+`Python` `TensorFlow` `scikit-learn` `Streamlit`
+
+[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/student-performance-prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 · [IPC Group Chat](https://github.com/AnshikaMoudgil/ipc-groupchat)
+
+**Inter-process communication**
+
+A systems-oriented group chat project focused on communication between processes.
+
+`Systems` `IPC`
+
+[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/ipc-groupchat)
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 · [Learning Management App](https://github.com/AnshikaMoudgil/Learning-Management-App)
+
+**Digital learning experiences**
+
+An application repository exploring learning management and education technology.
+
+`Education` `App Development`
+
+[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/Learning-Management-App)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 05 · [Gadget World](https://github.com/AnshikaMoudgil/gadget-world)
+
+**Full-stack gadget marketplace**
+
+An e-commerce platform spanning a Flutter storefront, Dart/Shelf backend, and Next.js admin dashboard.
+
+`Flutter` `Dart` `Next.js` `Supabase`
+
+[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/gadget-world)
+
+</td>
+<td width="50%" valign="top">
+
+#### 06 · [SkillCraft AI](https://github.com/AnshikaMoudgil/SkillCraft-AI)
+
+**AI-driven career preparation**
+
+An AI-powered interview practice platform with technical and HR preparation, coding experiences, resume tooling, and voice features.
+
+`React` `FastAPI` `Supabase` `Azure AI`
+
+[**VIEW SOURCE ↗**](https://github.com/AnshikaMoudgil/SkillCraft-AI)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More public repositories (newest first)</b></summary>
+
+- [LMS Assessment](https://github.com/AnshikaMoudgil/lms_Assessment)
+- [LMS Flutter Tensorik](https://github.com/AnshikaMoudgil/lms-flutter-tensorik)
+- [LMS Tensorik](https://github.com/AnshikaMoudgil/lms-tensorik)
+- [Humanitarian Risk Intelligence](https://github.com/AnshikaMoudgil/HumantarianRiskIntelligence)
+- [SafeHarbor Fintech](https://github.com/AnshikaMoudgil/SafeHarbor-Fintech)
+- [Smart File Converter](https://github.com/AnshikaMoudgil/Smart-file-converter-)
+- [AirWriting](https://github.com/AnshikaMoudgil/AirWriting)
+- [Data Analytics](https://github.com/AnshikaMoudgil/DataAnalytics)
+- [Credilink](https://github.com/AnshikaMoudgil/Credilink)
+
+</details>
+
+---
+
+### 04 · EXPERIENCE & ACHIEVEMENTS
+
+**App Development Intern · Tensorik Technologies** <sub>June–August 2025</sub>
+
+Worked on payment-gateway integration in a full-stack application, including **checkout, signature verification, webhooks, idempotency and retry handling**.
+
+**Hack-TU · Top 10 of 100 teams**
+
+Served as **Team Lead** while shipping working AI and blockchain prototypes under hackathon deadlines.
+
+**Academic performance**
+
+B.E. CSE (AI & ML), Chitkara University · **CGPA: 9.34/10** *(as provided in résumé)*
+
+### 05 · CERTIFICATIONS
+
+- **Microsoft Azure AI Fundamentals**
+- **Microsoft Azure Fundamentals**
+- **Microsoft Azure Data Fundamentals**
+
+### 06 · OPEN SOURCE & ACTIVITY
+
+<div align="center">
+
+**Explore the work, not just the numbers.**
+
+[**CONTRIBUTION HISTORY ↗**](https://github.com/AnshikaMoudgil?tab=overview) &nbsp; · &nbsp; [**PUBLIC REPOSITORIES ↗**](https://github.com/AnshikaMoudgil?tab=repositories)
+
+<sub>Browse GitHub for live code and contribution history.</sub>
+
+</div>
+
+### 07 · CODING PRACTICE
+
+**DSA & problem solving** · **250+ LeetCode problems completed** *(résumé-reported figure)*
+
+[**LEETCODE PROFILE ↗**](https://leetcode.com/u/anshikamoudgil/)
 
 ---
 
 <div align="center">
 
-### 05 / KEEP EXPLORING
+### Let's build systems that make a difference.
 
-**Curiosity is the starting point. Building is how ideas become real.**
+*Reliable infrastructure. Thoughtful engineering. Intelligent experiences.*
 
-[**View projects ↗**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp;&nbsp; · &nbsp;&nbsp; [**Follow on GitHub ↗**](https://github.com/AnshikaMoudgil) &nbsp;&nbsp; · &nbsp;&nbsp; [**Contribution activity ↗**](https://github.com/AnshikaMoudgil?tab=overview)
+[**EXPLORE MY WORK ↗**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp; · &nbsp; [**CONNECT ON LINKEDIN ↗**](https://www.linkedin.com/in/anshikamoudgil)
 
-<br />
-
-*Made with curiosity, code, and lots of iteration. ✦*
+<sub>Made with curiosity, code, and a drive to keep improving.</sub>
 
 </div>
