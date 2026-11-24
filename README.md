@@ -1,179 +1,140 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-banner.svg" alt="Anshika Moudgil — Full Stack, AI and Mobile Development" />
+<img src="https://raw.githubusercontent.com/AnshikaMoudgil/AnshikaMoudgil/main/assets/profile-banner.svg" width="100%" alt="Anshika Moudgil — Full Stack, AI and Mobile Development" />
 
 <br />
 
-<a href="https://github.com/AnshikaMoudgil?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
-<a href="https://github.com/AnshikaMoudgil?tab=overview"><img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub activity"/></a>
+### Hey, I'm Anshika! 👋
 
-**Building full-stack products, AI-powered experiences, and mobile applications.**
+**Full-stack developer · AI enthusiast · Mobile app builder**
+
+I enjoy turning interesting ideas into thoughtful, working software — from intelligent learning tools to fintech systems and mobile experiences.
+
+[**🚀 Explore my projects**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp;·&nbsp; [**💻 GitHub activity**](https://github.com/AnshikaMoudgil?tab=overview)
 
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/01-ABOUT%20ME-7C3AED?style=flat-square" alt="About me" />
+## ✦ About me
 
-I'm **Anshika**, a developer exploring the intersection of **full-stack engineering, artificial intelligence, and mobile development**. My repositories include payment infrastructure, learning platforms, intelligent applications, and e-commerce experiences.
+I build across **full-stack engineering, applied AI, and mobile development**, with hands-on projects covering payment systems, machine learning, e-commerce, and education.
 
-```text
-current_focus = ["Full-stack systems", "Applied AI", "Mobile apps"]
-approach      = "Build → Learn → Improve"
+```yaml
+focus:
+  - Full-stack products
+  - Artificial intelligence
+  - Mobile experiences
+mindset: "Build. Learn. Improve. Repeat."
 ```
 
-### <img src="https://img.shields.io/badge/02-TECH%20STACK-7C3AED?style=flat-square" alt="Tech stack" />
+## ✦ Tech I work with
 
-<div align="center">
+| Languages | Frameworks & tools | Data & infrastructure |
+| :--- | :--- | :--- |
+| `Python` · `Java` | `React` · `Next.js` | `PostgreSQL` · `Redis` |
+| `JavaScript` · `TypeScript` | `Spring Boot` · `FastAPI` | `Supabase` · `Firebase` |
+| `Dart` | `Flutter` · `Flask` | `Kafka` · `Docker` |
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart&theme=dark" alt="Python Java JavaScript TypeScript Dart" />
-
-**FRAMEWORKS & APPLICATIONS**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,spring,flutter,flask&theme=dark" alt="React Next.js FastAPI Spring Flutter Flask" />
-
-**DATABASES & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,firebase,docker,git&theme=dark" alt="PostgreSQL Redis Supabase Firebase Docker Git" />
-
-<sub>Technologies represented across my public repositories.</sub>
-
-</div>
+> A snapshot of technologies used across my repositories.
 
 ---
 
-### <img src="https://img.shields.io/badge/03-RECENT%20PROJECTS-7C3AED?style=flat-square" alt="Recent projects" />
+## ✦ Featured projects
 
-<sub>Listed newest first based on repository creation order. The profile repository itself is excluded.</sub>
+*Ordered newest first by repository creation date. Click any title to explore the source.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 01 · [PayRoute](https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine)
-
-**Intelligent payment routing & failover engine**
-
-A payment infrastructure project exploring dynamic routing, circuit breakers, idempotency, Kafka streaming, and real-time operational dashboards.
-
-`Java` `Spring Boot` `PostgreSQL` `Redis` `Kafka`
-
-<a href="https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F2937?style=flat-square&logo=github&logoColor=white" alt="PayRoute"/></a>
+<h3>01 · <a href="https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine">💳 PayRoute</a></h3>
+<strong>Intelligent payment routing & failover</strong>
+<p>A fintech system exploring dynamic routing, circuit breakers, distributed idempotency, Kafka events and live operations dashboards.</p>
+<code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code>
+<p><a href="https://github.com/AnshikaMoudgil/PayRoute-Intelligent-Payment-Routing-Failover-Engine">Explore source →</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-#### 02 · [Student Performance Prediction](https://github.com/AnshikaMoudgil/student-performance-prediction)
-
-**Deep learning for academic insights**
-
-An end-to-end ML project classifying student performance and exploring early identification of academic risk.
-
-`Python` `TensorFlow` `scikit-learn` `Streamlit`
-
-<a href="https://github.com/AnshikaMoudgil/student-performance-prediction"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F2937?style=flat-square&logo=github&logoColor=white" alt="Student performance prediction"/></a>
+<h3>02 · <a href="https://github.com/AnshikaMoudgil/student-performance-prediction">🧠 Student Performance Prediction</a></h3>
+<strong>Deep learning for education</strong>
+<p>An end-to-end ML application to classify academic performance and highlight students at risk using neural networks and interactive analytics.</p>
+<code>Python</code> <code>TensorFlow</code> <code>scikit-learn</code> <code>Streamlit</code>
+<p><a href="https://github.com/AnshikaMoudgil/student-performance-prediction">Explore source →</a></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 03 · [IPC Group Chat](https://github.com/AnshikaMoudgil/ipc-groupchat)
-
-**Inter-process communication exploration**
-
-A group-chat project focused on communication between processes.
-
-`Systems` `IPC`
-
-<a href="https://github.com/AnshikaMoudgil/ipc-groupchat"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F2937?style=flat-square&logo=github&logoColor=white" alt="IPC group chat"/></a>
+<h3>03 · <a href="https://github.com/AnshikaMoudgil/ipc-groupchat">💬 IPC Group Chat</a></h3>
+<strong>Systems & inter-process communication</strong>
+<p>A group-chat exploration built around communication between processes.</p>
+<code>Systems</code> <code>IPC</code>
+<p><a href="https://github.com/AnshikaMoudgil/ipc-groupchat">Explore source →</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-#### 04 · [Learning Management App](https://github.com/AnshikaMoudgil/Learning-Management-App)
-
-**Learning platform project**
-
-A learning-management application repository. Explore the source for implementation details.
-
-`Education` `Application`
-
-<a href="https://github.com/AnshikaMoudgil/Learning-Management-App"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F2937?style=flat-square&logo=github&logoColor=white" alt="Learning management app"/></a>
+<h3>04 · <a href="https://github.com/AnshikaMoudgil/Learning-Management-App">📚 Learning Management App</a></h3>
+<strong>Learning platform project</strong>
+<p>An application repository focused on digital learning experiences.</p>
+<code>Education</code> <code>Application</code>
+<p><a href="https://github.com/AnshikaMoudgil/Learning-Management-App">Explore source →</a></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 05 · [Gadget World](https://github.com/AnshikaMoudgil/gadget-world)
-
-**Multi-app e-commerce platform**
-
-A gadget marketplace spanning a Flutter storefront, Dart/Shelf API, and Next.js administration experience.
-
-`Flutter` `Dart` `Next.js` `Supabase`
-
-<a href="https://github.com/AnshikaMoudgil/gadget-world"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F2937?style=flat-square&logo=github&logoColor=white" alt="Gadget World"/></a>
+<h3>05 · <a href="https://github.com/AnshikaMoudgil/gadget-world">🛍️ Gadget World</a></h3>
+<strong>Multi-app e-commerce platform</strong>
+<p>A gadget marketplace with a Flutter storefront, Dart/Shelf backend and Next.js administration dashboard.</p>
+<code>Flutter</code> <code>Dart</code> <code>Next.js</code> <code>Supabase</code>
+<p><a href="https://github.com/AnshikaMoudgil/gadget-world">Explore source →</a></p>
 
 </td>
 <td width="50%" valign="top">
 
-#### 06 · [SkillCraft AI](https://github.com/AnshikaMoudgil/SkillCraft-AI)
-
-**AI interview & career preparation**
-
-A platform exploring AI-assisted interviews, coding practice, resume tools, and voice experiences.
-
-`React` `FastAPI` `Supabase` `Azure AI`
-
-<a href="https://github.com/AnshikaMoudgil/SkillCraft-AI"><img src="https://img.shields.io/badge/VIEW%20PROJECT-1F2937?style=flat-square&logo=github&logoColor=white" alt="SkillCraft AI"/></a>
+<h3>06 · <a href="https://github.com/AnshikaMoudgil/SkillCraft-AI">✨ SkillCraft AI</a></h3>
+<strong>AI-powered interview preparation</strong>
+<p>A career preparation platform exploring mock interviews, coding practice, resume tools and voice-enabled AI interactions.</p>
+<code>React</code> <code>FastAPI</code> <code>Supabase</code> <code>Azure AI</code>
+<p><a href="https://github.com/AnshikaMoudgil/SkillCraft-AI">Explore source →</a></p>
 
 </td>
 </tr>
 </table>
 
-### <img src="https://img.shields.io/badge/04-MORE%20BUILDS-7C3AED?style=flat-square" alt="More builds" />
+## ✦ More things I've built
 
-More repositories, also in newest-first creation order:
+| Project | Focus |
+| :--- | :--- |
+| [LMS Assessment](https://github.com/AnshikaMoudgil/lms_Assessment) | Learning assessments |
+| [LMS Flutter Tensorik](https://github.com/AnshikaMoudgil/lms-flutter-tensorik) | Flutter + Firebase education app |
+| [LMS Tensorik](https://github.com/AnshikaMoudgil/lms-tensorik) | Learning management |
+| [Humanitarian Risk Intelligence](https://github.com/AnshikaMoudgil/HumantarianRiskIntelligence) | Risk intelligence |
+| [SafeHarbor Fintech](https://github.com/AnshikaMoudgil/SafeHarbor-Fintech) | Financial technology |
+| [Smart File Converter](https://github.com/AnshikaMoudgil/Smart-file-converter-) | File conversion |
+| [AirWriting](https://github.com/AnshikaMoudgil/AirWriting) | Air-writing experiment |
+| [Data Analytics](https://github.com/AnshikaMoudgil/DataAnalytics) | Analytics |
+| [Credilink](https://github.com/AnshikaMoudgil/Credilink) | Learning & credentials |
 
-- [LMS Assessment](https://github.com/AnshikaMoudgil/lms_Assessment) · Assessment project
-- [LMS Flutter Tensorik](https://github.com/AnshikaMoudgil/lms-flutter-tensorik) · Flutter and Firebase learning app
-- [lms-tensorik](https://github.com/AnshikaMoudgil/lms-tensorik) · Learning platform repository
-- [Humanitarian Risk Intelligence](https://github.com/AnshikaMoudgil/HumantarianRiskIntelligence) · Risk-intelligence project
-- [SafeHarbor Fintech](https://github.com/AnshikaMoudgil/SafeHarbor-Fintech) · Fintech project
-- [Smart File Converter](https://github.com/AnshikaMoudgil/Smart-file-converter-) · File conversion project
-- [AirWriting](https://github.com/AnshikaMoudgil/AirWriting) · Air-writing experiment
-- [Data Analytics](https://github.com/AnshikaMoudgil/DataAnalytics) · Data analysis work
-- [Credilink](https://github.com/AnshikaMoudgil/Credilink) · Learning and credentials project
-
-<sub>Private repositories are not listed or linked publicly. Additional earlier repositories can be found under the Repositories tab.</sub>
-
----
-
-### <img src="https://img.shields.io/badge/05-ACTIVITY-7C3AED?style=flat-square" alt="Activity" />
-
-<div align="center">
-
-**See the code, commits, and contributions behind the projects.**
-
-<a href="https://github.com/AnshikaMoudgil?tab=overview"><img src="https://img.shields.io/badge/CONTRIBUTIONS-111827?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Contributions"/></a>
-<a href="https://github.com/AnshikaMoudgil?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Repositories"/></a>
-
-<sub>No unstable stats or trophy image cards.</sub>
-
-</div>
+<sub>Projects above are ordered newest to oldest by repository creation. Only public repositories are linked.</sub>
 
 ---
 
+## ✦ Let's connect through code
+
 <div align="center">
 
-### Curious minds build better things.
+**Explore the builds, browse the source, and follow along as I keep learning.**
 
-*Keep learning. Keep shipping. Keep improving.*
+[**View all repositories →**](https://github.com/AnshikaMoudgil?tab=repositories) &nbsp;·&nbsp; [**See contributions →**](https://github.com/AnshikaMoudgil?tab=overview)
 
-<a href="https://github.com/AnshikaMoudgil?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/></a>
+<br />
+
+*Curious minds build better things. ✨*
 
 </div>
